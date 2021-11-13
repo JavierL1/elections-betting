@@ -1,0 +1,5 @@
+dist/*
+.yarn
+.env
+.yarnrc.yml
+.pnp.cjs
